@@ -13,7 +13,7 @@
             <label for="name">Имя:Жанибек хан</label>
             <input type="text" id="name" name="name" required>
             <br><br>
-            <label for="email"></label>
+            <label for="">email</label>
             <input type="email" id="email" name="email" required>
             <br><br>
             <label for="password">Пароль:</label>
