@@ -20,7 +20,8 @@
             <input type="password" id="password" name="password" required>
             <br><br>
             <label for="comments">Комментарий:Жони</label>
-            <textarea id="comments" name="comments" rows="4" cols="30"></textarea>
+            
+<textarea id="comments" name="comments" rows="4" cols="30"></textarea>
         </fieldset>
         <br>
         <fieldset>
