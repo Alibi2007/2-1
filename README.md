@@ -13,13 +13,13 @@
             <label for="name">Имя:Жанибек хан</label>
             <input type="text" id="name" name="name" required>
             <br><br>
-            <label for="email">mamajalibi828</label>
+            <label for="email"></label>
             <input type="email" id="email" name="email" required>
             <br><br>
-            <label for="password">Пароль:11111111</label>
+            <label for="password">Пароль:</label>
             <input type="password" id="password" name="password" required>
             <br><br>
-            <label for="comments">Комментарий:жони</label>
+            <label for="comments">Комментарий:Жони</label>
             <textarea id="comments" name="comments" rows="4" cols="30"></textarea>
         </fieldset>
         <br>
