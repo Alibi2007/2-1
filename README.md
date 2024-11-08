@@ -19,7 +19,7 @@
             <label for="password">Пароль:11111111</label>
             <input type="password" id="password" name="password" required>
             <br><br>
-            <label for="comments">Комментарий:;жони</label>
+            <label for="comments">Комментарий:жони</label>
             <textarea id="comments" name="comments" rows="4" cols="30"></textarea>
         </fieldset>
         <br>
